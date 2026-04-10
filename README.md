@@ -1,6 +1,7 @@
 # muggle-zoo-newletter
 muggle-zoo-newletter
 
+Muggle Zoo Newsletter — `muggle-zoo-newletter`
 > **給下一個 AI 看的工作手冊。**  
 > 這個 repo 是 Muggle Zoo 電子報系統。直接讀這份 README，就能接手繼續做。
 ---
