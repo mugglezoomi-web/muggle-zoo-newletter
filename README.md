@@ -41,6 +41,7 @@ muggle-zoo-newletter/
 外部背景     #f0ede6   (email 信封外框)
 ```
 字體
+
 標題：`Georgia, 'Noto Serif TC', serif`（用於大標、三件事標題）
 
 內文：`Arial, 'Noto Sans TC', sans-serif`（用於所有內文、按鈕）
