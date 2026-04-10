@@ -42,12 +42,19 @@ muggle-zoo-newletter/
 ```
 字體
 標題：`Georgia, 'Noto Serif TC', serif`（用於大標、三件事標題）
+
 內文：`Arial, 'Noto Sans TC', sans-serif`（用於所有內文、按鈕）
+
 數字/代號：`JetBrains Mono`（工具頁用，電子報不一定需要）
+
 Layout（郵件安全格式）
+
 全部用 `<table>` layout（不用 flexbox / grid，email client 不支援）
+
 容器寬度：`640px`，`max-width: 640px`
+
 圓角：`border-radius: 20px–24px`（容器）、`16px–18px`（卡片）
+
 手機響應：`@media screen and (max-width:640px)` 控制縮放
 ---
 每期電子報內容結構
